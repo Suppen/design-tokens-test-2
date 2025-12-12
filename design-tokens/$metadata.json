@@ -1,22 +1,24 @@
 {
   "tokenSetOrder": [
-    "primitives/globals",
-    "primitives/modes/size/small",
-    "primitives/modes/size/medium",
-    "primitives/modes/size/large",
-    "primitives/modes/size/global",
-    "primitives/modes/typography/size/small",
-    "primitives/modes/typography/size/medium",
-    "primitives/modes/typography/size/large",
-    "primitives/modes/typography/primary/theme",
+    "Semantic/Semantic",
+    "Size/small",
+    "Size/medium",
+    "Size/large",
+    "Typography/Primary",
+    "Typography/Secondary",
     "primitives/modes/typography/secondary/theme",
-    "primitives/modes/color-scheme/dark/theme",
-    "primitives/modes/color-scheme/light/theme",
-    "themes/theme",
-    "semantic/color",
+    "Color scheme/Dark",
+    "Color scheme/Light",
+    "Theme/theme",
     "semantic/modes/main-color/accent",
     "semantic/modes/support-color/fancycolor",
     "semantic/modes/support-color/boringcolor",
-    "semantic/style"
+    "Main color/accent",
+    "Support color/fancycolor",
+    "Support color/boringcolor",
+    "Support color/brand1",
+    "Support color/brand2",
+    "Support color/brand3",
+    "Banan/Mode 1"
   ]
 }
